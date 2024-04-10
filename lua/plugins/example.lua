@@ -16,7 +16,7 @@ if true then
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "slate",
     },
   },
 
