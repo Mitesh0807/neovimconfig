@@ -11,7 +11,7 @@ if true then
   return {
     -- add gruvbox
     -- { "ellisonleao/gruvbox.nvim" },
-    { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+    -- { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
     -- Configure LazyVim to load gruvbox
     -- {
     --   "LazyVim/LazyVim",
